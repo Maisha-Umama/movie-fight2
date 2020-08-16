@@ -13,7 +13,7 @@ const createAutoComplete = ({
           <div class="dropdown-content results"></div>
         </div>
      </div> 
-    `;
+    `;//autocomplete
     const input = root.querySelector('input');//to se
     const dropdown= root.querySelector('.dropdown' );
     const resultsWrapper =root.querySelector('.results');
